@@ -1,0 +1,15 @@
+C:\Users\s\Desktop\weekly proj\weeklychallenge\bin\Debug\net6.0\weeklychallenge.exe
+C:\Users\s\Desktop\weekly proj\weeklychallenge\bin\Debug\net6.0\weeklychallenge.deps.json
+C:\Users\s\Desktop\weekly proj\weeklychallenge\bin\Debug\net6.0\weeklychallenge.runtimeconfig.json
+C:\Users\s\Desktop\weekly proj\weeklychallenge\bin\Debug\net6.0\weeklychallenge.dll
+C:\Users\s\Desktop\weekly proj\weeklychallenge\bin\Debug\net6.0\ref\weeklychallenge.dll
+C:\Users\s\Desktop\weekly proj\weeklychallenge\bin\Debug\net6.0\weeklychallenge.pdb
+C:\Users\s\Desktop\weekly proj\weeklychallenge\obj\Debug\net6.0\weeklychallenge.csproj.AssemblyReference.cache
+C:\Users\s\Desktop\weekly proj\weeklychallenge\obj\Debug\net6.0\weeklychallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s\Desktop\weekly proj\weeklychallenge\obj\Debug\net6.0\weeklychallenge.AssemblyInfoInputs.cache
+C:\Users\s\Desktop\weekly proj\weeklychallenge\obj\Debug\net6.0\weeklychallenge.AssemblyInfo.cs
+C:\Users\s\Desktop\weekly proj\weeklychallenge\obj\Debug\net6.0\weeklychallenge.csproj.CoreCompileInputs.cache
+C:\Users\s\Desktop\weekly proj\weeklychallenge\obj\Debug\net6.0\weeklychallenge.dll
+C:\Users\s\Desktop\weekly proj\weeklychallenge\obj\Debug\net6.0\ref\weeklychallenge.dll
+C:\Users\s\Desktop\weekly proj\weeklychallenge\obj\Debug\net6.0\weeklychallenge.pdb
+C:\Users\s\Desktop\weekly proj\weeklychallenge\obj\Debug\net6.0\weeklychallenge.genruntimeconfig.cache
